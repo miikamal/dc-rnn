@@ -1,0 +1,11 @@
+---
+bitbrains_data_path: /path/to/fastStorage/2013-8
+train_data_path: /path/to/train_set
+test_data_path: /path/to/test_set
+checkpoint_path: path/to/model/checkpoints
+history_size: 90
+forecast_length: 6
+train: true
+plot: true
+epochs: 300
+machine_id: 253
